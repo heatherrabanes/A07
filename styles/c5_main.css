@@ -62,8 +62,12 @@ main {
 main h1 {
 	font-size: 150%;
 	padding: .3em 0;
-	border-top: 3px solid #931420;
-	border-bottom: 3px solid #931420;
+	text-indent: 2em;
+	border: 5px double #931420;
+	border-radius: 10px;
+	box-shadow: 2px 2px 0px 0px black;
+	background-color: #FFFFFF;
+	margin-bottom: .50em;
 
 }
 main h2 {
